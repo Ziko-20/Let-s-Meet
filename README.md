@@ -36,11 +36,6 @@ Utilisateur non authentifié. Il peut consulter les événements, effectuer une 
 **Client**
 Utilisateur authentifié disposant des droits les plus étendus côté utilisateur final. Il peut créer un événement, gérer les participants, ajouter des événements à ses favoris et participer à un événement. Ces actions nécessitent également une authentification (`<<include>>`).
 
-Deux relations complémentaires apparaissent sur le diagramme :
 
-- **`<<extend>>` Télécharger l'invitation en PDF** : fonctionnalité optionnelle qui étend l'action "Participer à un événement".
-- **`<<include>> Envoyer automatiquement un e-mail** : déclenchée lors de la participation à un événement, elle fait appel à un **Système des Emails automatiques** externe qui se charge de l'envoi effectif du mail.
-
-## Licence
 
 Projet personnel — Zakaria Lemchaouri
