@@ -43,4 +43,4 @@ Deux relations complémentaires apparaissent sur le diagramme :
 
 ## Licence
 
-Projet académique — Zakaria Lemchaouri
+Projet personnel — Zakaria Lemchaouri
